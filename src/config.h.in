@@ -1,0 +1,3 @@
+#define MTLauncher_VERSION @MTLauncher_VERSION@
+
+#define WINDOWS @WIN32@
